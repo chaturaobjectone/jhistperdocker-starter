@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "lk.objectone.jhipster"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "dockercistarter",
+    "packageName": "lk.objectone.jhipster",
+    "packageFolder": "lk/objectone/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGIzOWJjMGEzYTYzMzEzMmNmMWEzZDdhZGUxODZlYWU2NGZmNmFlOGU1Y2NiYzMxNmY4ZTUxYjI3YWI2YzViNTJmOGMxYjgyYTNlYWI4OTQ1NjM1YTBmMmFjMzY2OGFjMmRjODdiN2Y1OThkNTI0ZmQ3YmY1ODk0YTZhMzJkZTI=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
